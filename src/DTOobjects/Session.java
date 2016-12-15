@@ -1,8 +1,6 @@
 package DTOobjects;
 
-/**
- * Created by alanziberi on 21/10/2016.
- */
+
 public class Session {
 
     private String sessionId;

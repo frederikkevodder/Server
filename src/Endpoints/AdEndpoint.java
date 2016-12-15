@@ -19,9 +19,6 @@ import java.util.ArrayList;
 import java.util.Map;
 
 
-/**
- * Created by krist on 17-10-2016.
- */
 public class AdEndpoint {
 
     static EndpointController endpointController = new EndpointController();

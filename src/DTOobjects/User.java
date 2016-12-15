@@ -1,8 +1,5 @@
 package DTOobjects;
 
-/**
- * Created by Emma og Thomas on 17-10-2016.
- */
 public class User {
 
     // Attributter oprettes

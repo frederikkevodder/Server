@@ -16,9 +16,7 @@ import Controller.LoginController;
 import DTOobjects.User;
 import org.json.simple.JSONObject;
 
-/**
- * Created by krist on 17-10-2016.
- */
+
 public class LoginEndpoint {
 
     static EndpointController endpointController = new EndpointController();

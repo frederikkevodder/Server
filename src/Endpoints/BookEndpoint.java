@@ -11,9 +11,7 @@ import org.json.simple.JSONObject;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Map;
-/**
- * Created by krist
- */
+
 public class BookEndpoint {
     static EndpointController endpointController = new EndpointController();
     static BookController bookController = new BookController();

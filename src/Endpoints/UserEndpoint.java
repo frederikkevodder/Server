@@ -21,9 +21,6 @@ import org.json.simple.JSONObject;
 
 import static java.lang.Integer.parseInt;
 
-/**
- * Created by krist on 17-10-2016.
- */
 public class UserEndpoint {
 
     static EndpointController endpointController = new EndpointController();

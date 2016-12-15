@@ -2,9 +2,6 @@ package DTOobjects;
 
 import java.sql.Timestamp;
 
-/**
- * Created by alanziberi on 26/10/2016.
- */
 public class Reservation {
 
     private int adId;
